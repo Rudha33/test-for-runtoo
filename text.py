@@ -1,0 +1,8 @@
+print("Este é 1 exemplo de puxa pacotes o runTOO")
+time.sleep(4)
+print("Cada desses apps são puxados da internet. com o PSiN")
+time.sleep(2)
+print("Eles são puxados via links, como raws do GitHub")
+time.sleep(4)
+print("E, Seja bem vindo ao runTOO!")
+input("Deixe sua assinatura:")
